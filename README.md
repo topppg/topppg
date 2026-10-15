@@ -15,11 +15,12 @@ Before this, I worked in data platforms and production machine learning. I desig
 - **Knots Analytics · Co-founder** (2020–2023): route optimization for the marine industry and product and technical direction.
 - **Centre de Physique Théorique de Marseille · Research Scientist · PhD** (2017–2020): numerical quantum gravity research and open source C libraries with CUDA kernels.
 
-## Technologies
+## Technical skills
 
-- **LLM serving:** vLLM, SGLang
-- **Software and ML:** Python, PyTorch, C, CUDA
-- **Focus areas:** agent orchestration, memory systems, embeddings, time series models
+- **LLM serving:** vLLM, SGLang, KV caching, LLM evaluation
+- **Agents and retrieval:** agent orchestration, MCP, memory systems, RAG
+- **Machine learning:** PyTorch, embeddings, recommendation systems, time series models
+- **Engineering:** Python, FastAPI, Kubernetes, Docker, C, CUDA
 
 ## Links
 
